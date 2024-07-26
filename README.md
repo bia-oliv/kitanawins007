@@ -15,5 +15,5 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bia-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Bia-gamemaker" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALogo_GameMaker_2022.png&psig=AOvVaw2aKMbxGhA6G_WFvy1stSMf&ust=1722093704815000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDqyoOBxYcDFQAAAAAdAAAAABAE">      
+  <img align="center" alt="Bia-gamemaker" height="30" width="40" src="https://www.svgrepo.com/show/373756/light-gamemaker2.svg">      
 </div>
