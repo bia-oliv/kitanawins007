@@ -3,7 +3,7 @@
   📁- atualmente trabalho com Game Maker e tenho <a href="https://gx.games/pt-br/studios/9d87140c-cc16-419b-a7f7-39afc15e436e/">DOIS JOGOS PUBLICADOS!!</a>
   📖- estudando C# 
   📕- engenharia da computação...em processo
-  🌱- amo valorant, mortal kombat e cachorros :) 
+  🌱- foco em backend e inteligência artificial
   🎂- 16 anos
   
 <b>aberta para estágios 👇</b>
@@ -15,6 +15,5 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bia-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Bia-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Bia-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">          
+  <img align="center" alt="Bia-gamemaker" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALogo_GameMaker_2022.png&psig=AOvVaw2aKMbxGhA6G_WFvy1stSMf&ust=1722093704815000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDqyoOBxYcDFQAAAAAdAAAAABAE">      
 </div>
