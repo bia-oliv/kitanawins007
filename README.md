@@ -15,5 +15,5 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bia-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Bia-gamemaker" height="30" width="40" src="https://images.igdb.com/igdb/image/upload/t_cover_big/uvhsil15lypnsc6ewepa.png">      
+  <img align="center" alt="Bia-gamemaker" height="40" width="50" src="https://images.igdb.com/igdb/image/upload/t_cover_big/uvhsil15lypnsc6ewepa.png">      
 </div>
