@@ -1,4 +1,4 @@
-<b>Oie! Eu sou a Kitana :)</b>
+<b>Oie! Eu sou a Bia :)</b>
 <pre>
   📁- atualmente trabalho com Game Maker e tenho <a href="https://gx.games/pt-br/studios/9d87140c-cc16-419b-a7f7-39afc15e436e/">TRÊS JOGOS PUBLICADOS!!</a>
   📖- estudando C# 
@@ -7,7 +7,7 @@
   🎂- 16 anos
   
 <b>aberta para estágios 👇</b>
-<img align="left-center" alt="instagram" height="20" width="20" src="https://github.com/kitanawins007/kitanawins007/assets/126107488/72fc443a-d7c9-4a1d-b293-8ddf649af758">: 
+<img align="left-center" height="20" width="70" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">:beatriz.oliv.cordeiro@gmail.com
 <img align="left-center" height="150" width="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDh2a2Z6ZDV5YWxodWw1cmNtZmJkZWU1NGg1YWxlaXcxcGI0YXIzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZcqzJXkIs9AHvaeICK/giphy.gif">
 
 </pre>
