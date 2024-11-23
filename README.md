@@ -3,6 +3,7 @@
   📁- atualmente trabalho com Game Maker e tenho <a href="https://gx.games/pt-br/studios/9d87140c-cc16-419b-a7f7-39afc15e436e/">TRÊS JOGOS PUBLICADOS!!</a>
   📖- estudando C# 
   📕- engenharia da computação...em processo
+  📕- física...em processo
   🌱- foco em backend e inteligência artificial
   🎂- 16 anos
   
